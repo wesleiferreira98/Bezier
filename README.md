@@ -52,3 +52,7 @@ O aplicativo de Curva de Bézier é uma ferramenta útil para estudantes, profis
 ## Exemplo de execução
 
 ![Descrição da Imagem](image/README/1713882577282.png)
+
+
+[Clique aqui para assistir ao vídeo](video/video.html)
+

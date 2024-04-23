@@ -1,6 +1,5 @@
 
 
----
 
 # Documentação do Aplicativo de Curva de Bézier
 
@@ -60,5 +59,5 @@ Este aplicativo é de código aberto e as contribuições são bem-vindas! Se vo
 
 O aplicativo de Curva de Bézier é uma ferramenta útil para estudantes, profissionais e entusiastas da computação gráfica que desejam explorar e experimentar curvas suaves e elegantes. Com uma interface intuitiva e funcionalidades poderosas, este aplicativo oferece uma maneira divertida e educativa de trabalhar com curvas de Bézier.
 
----
+
 

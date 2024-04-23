@@ -1,4 +1,4 @@
-Claro! Aqui está uma documentação básica para o aplicativo:
+
 
 ---
 
